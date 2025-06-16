@@ -1,2 +1,6 @@
 qiskit
 qiskit-ibm-runtime
+pylatexenc 
+matplotlib 
+qiskit-ibm-provider 
+qiskit-aer
